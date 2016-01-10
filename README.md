@@ -1,6 +1,6 @@
 # gulp-mamp-browsersync
 
-<p>I created this repository because I couldn't find a good example of how to use Mamp, Browsersync, and Gulp together anywhere on the internet. If you have tips or other suggestions for improvements, feel free to let me know!</p>
+<p>I created this repository because I couldn't find a good example of how to use Mamp, Browsersync, and Gulp together anywhere on the internet. If you have any suggestions for improvements in this set up or other tips, feel free to let me know!</p>
 
 <h2>Instructions</h2>
 <ol>
