@@ -1,7 +1,8 @@
 # gulp-mamp-browsersync
 
-<p>I created this repository because I couldn't find a good example of how to use Mamp, Browsersync, and Gulp together anywhere on the internet. If you have tips or other suggestions, feel free to let me know!</p>
+<p>I created this repository because I couldn't find a good example of how to use Mamp, Browsersync, and Gulp together anywhere on the internet. If you have tips or other suggestions for improvements, feel free to let me know!</p>
 
+<h2>Instructions</h2>
 <ol>
   <li>Install and configure MAMP. Make sure to check Preferences > Web Server to make sure your preferred server route is selected.
 Create a backup of MAMP's apache conf file. We're doing this because the config function of a critical gulp plugin, gulp-mamp, is broken and we'll need to do it by hand. You can find this file in /Applications/MAMP/conf/apache.</li>
